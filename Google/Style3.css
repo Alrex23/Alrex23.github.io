@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(32,33,36);
+}
+#gmail{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin: 0 0 0 1100px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+#imagenes{
+    display: inline-block;
+    color: white;
+    text-decoration: white;
+    margin: 0 0 0 10px;
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+
+}
+img{
+    display:flex;
+    width: 272;
+    height: 92;
+    margin: 200px auto;
+}
+#barra{
+    display: flex;
+    width: 465px;
+    height: 42px;
+    margin: -160px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 22px;
+    background-color: white;
+}
+#search{
+    display: inline-block;
+    width: 160px;
+    height: 30px;
+    margin: 180px 20px 0 505px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: gray;
+    border-color: gray;
+    }
+#lucky{
+    display: inline-block;
+    width: 160px;
+    height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    background-color: gray;
+    border-color: gray;
+}
+#pie{
+    display: block;
+    color: white;
+    margin: 100px 0 0 0;
+    float: left;
+}
